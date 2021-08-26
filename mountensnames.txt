@@ -1,0 +1,8 @@
+1.	Everest	Himalayas	Nepal/Tibet	29,035
+2.	K2 (Mount Godwin Austen)	Karakoram	Pakistan/China	28,250
+3.	Kangchenjunga	Himalayas	India/Nepal	28,169
+4.	Lhotse	Himalayas	Nepal/Tibet	27,940
+5.	Makalu	Himalayas	Nepal/Tibet	27,766
+6.	Cho Oyu	Himalayas	Nepal/Tibet	26,906
+7.	Dhaulagiri	Himalayas	Nepal	26,795
+8.	Manaslu	Himalayas	Nepal	26,781 43223
